@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Stores mappings between Personas and their associated permissions/groups.</description>
+    <label>Persona Access Mapping</label>
+    <pluralLabel>Persona Access Mappings</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>
