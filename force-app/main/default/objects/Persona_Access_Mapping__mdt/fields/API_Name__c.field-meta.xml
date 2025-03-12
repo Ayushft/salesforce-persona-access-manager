@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>API_Name__c</fullName>
+    <description>API names of the Type of assignment (Permission Set, Permission Set Group, or Public Group) records separated by a comma (,)</description>
+    <fieldManageability>DeveloperControlled</fieldManageability>
+    <label>API Name</label>
+    <length>50000</length>
+    <type>LongTextArea</type>
+    <visibleLines>5</visibleLines>
+</CustomField>
